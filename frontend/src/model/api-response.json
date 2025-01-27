@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "total_urls_crawled": 390,
+  "timestamp": "2024-12-02T21:17:54.448226-05:00[America/New_York]",
+  "data": [
+    {
+      "url": "https://recreation.northeastern.edu/",
+      "rank": 0.1182050831675692,
+      "in_degree": 68
+    },
+    {
+      "url": "https://www.nulondon.ac.uk/",
+      "rank": 0.09103020536792787,
+      "in_degree": 112
+    },
+    {
+      "url": "https://registrar.northeastern.edu/",
+      "rank": 0.04365506862823522,
+      "in_degree": 52
+    },
+    {
+      "url": "https://roux.northeastern.edu/",
+      "rank": 0.03686618915482293,
+      "in_degree": 52
+    },
+    {
+      "url": "https://chancellor.northeastern.edu/",
+      "rank": 0.031303563848941486,
+      "in_degree": 41
+    },
+    {
+      "url": "https://calendar.northeastern.edu/event/mens-basketball-vs-lasalle",
+      "rank": 3.566481507310896e-36,
+      "in_degree": 1
+    },
+    {
+      "url": "https://www.nulondon.ac.uk/study/visit-us/pg-events/taster-lectures/",
+      "rank": 1.4107267516398406e-38,
+      "in_degree": 1
+    }
+  ]
+}
+
+ 
