@@ -1,6 +1,6 @@
-# WebKrawler-INFO6205
+# WebCrawler
 
-Repository containing the codebase of the Webcrawler for INFO6205 Fall 2024 Project
+
 
 ## Overview
 
@@ -47,7 +47,7 @@ Set up Neo4j credentials and URL in application.properties.
 #### Installation
 
 1. Clone the repository:\
-   `git clone git@github.com:saxena-akshit/WebKrawler-INFO6205.git`
+   `git clone git@github.com:sannskruti/WebCrawler.git`
 2. Navigate to Directory:\
    `cd backend`
 3. Build the application:\
